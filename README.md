@@ -15,6 +15,7 @@ Then, deploy the application using the Application Deployment tool.
 
 You can copy files to the isolated storage of this application and then download
 them using [IsoStoreSpy](http://isostorespy.codeplex.com/).
+
 ![sample_output](/img/ss01.png)
 
 
