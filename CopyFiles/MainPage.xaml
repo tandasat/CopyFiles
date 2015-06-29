@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="CopyFiles.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CopyFiles"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBox x:Name="textBox" Margin="10,47,20,0" TextWrapping="Wrap" 
+                 Text="C:\Windows\system32\drivers\*.sys" VerticalAlignment="Top" Height="43"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" 
+                   Margin="10,10,20,10" TextWrapping="Wrap" Text="Query Path:" 
+                   VerticalAlignment="Top" Height="32" Width="390" FontSize="21.333"/>
+        <Button x:Name="button" Content="Run" HorizontalAlignment="Stretch" 
+                Margin="271,85,20,0" VerticalAlignment="Top" Click="button_Click"/>
+        <ScrollViewer x:Name="scrollViewer" Margin="10,147,20,10" 
+                      VerticalAlignment="Top" >
+            <TextBlock x:Name="logBlock" TextWrapping="Wrap" FontSize="13.333"/>
+        </ScrollViewer>
+        <CheckBox x:Name="onlyListing" Content="Only listing" HorizontalAlignment="Left" Margin="25,83,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

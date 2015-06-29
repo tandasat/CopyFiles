@@ -1,0 +1,3 @@
+MainPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\ARM\Release\CopyFiles_1.0.0.4_ARM.appx
+SymbolPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\AppPackages\CopyFiles_1.0.0.4_Test\CopyFiles_1.0.0.4_ARM.appxsym
+ResourcePack=C:\Users\user\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\ARM\Release\CopyFiles_1.0.0.4_scale-100.appx

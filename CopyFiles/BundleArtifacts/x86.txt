@@ -1,0 +1,2 @@
+MainPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\bin\x86\Release\CopyFiles_1.0.0.1_x86.appx
+SymbolPackage=C:\Users\user\Documents\Visual Studio 2015\Projects\CopyFiles\CopyFiles\AppPackages\CopyFiles_1.0.0.1_Test\CopyFiles_1.0.0.1_x86.appxsym
