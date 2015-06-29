@@ -15,14 +15,14 @@ Then, deploy the application using the Application Deployment tool.
 
 You can copy files to the isolated storage of this application and then download
 them using [IsoStoreSpy](http://isostorespy.codeplex.com/).
-![sample_output](/img/ss1.png)
+![sample_output](/img/ss01.png)
 
 
 ## Acknowledgment
 The icon was made by [dAKirby309](http://www.iconarchive.com/show/windows-8-metro-icons-by-dakirby309/Folders-OS-Exit-Full-Screen-Metro-icon.html). 
 Thank you for releasing it under the flexible license.
 
-![ICON](/img/360.png)
+![ICON](/img/120.png)
 
 
 ## Supported Platform(s)
